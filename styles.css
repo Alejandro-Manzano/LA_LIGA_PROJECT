@@ -62,7 +62,7 @@ main {
     justify-content: center;
     align-items: center;
     padding: 15px;
-    background-image: url(/Equipos_LaLiga/assets/Icons/cesped.jpeg);
+    background-image: url("https://res.cloudinary.com/dul2s17m2/image/upload/v1682347454/cesped_poeemg.jpg");
 }
 
 div {
